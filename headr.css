@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+.card {
+  
+  background-color: black;
+  color: white;
+  }
+
+.card_text {
+  background-color: white;
+  color: black;
+  
+}
+  
